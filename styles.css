@@ -1,0 +1,52 @@
+h1{ 
+    color: pink;
+}
+p{
+    color:blueviolet;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+#header-2{
+    color: green;
+    font-size: 24px;
+    font-family: Verdana, sans-serif;
+}
+p{
+    color:aqua;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#footer{
+    color: gray;
+    font-size: 16px;
+    font-family: Georgia, serif;
+}
+
+*{
+    
+    background-color: purple;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size : 16px;
+    font-weight: lighter;
+    text-align: left;
+    letter-spacing: 2px;    
+    line-height: 1.5;
+}
+
+.box-model-example {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    height: 600px;
+    background-color: lightblue;
+}
+.box p{
+    color: rgb(139, 0, 0);
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
